@@ -1,0 +1,17 @@
+# basics 
+numpy==1.26.4
+pandas==2.0.3 
+streamlit==1.35.0
+st-annotated-text==4.0.1 
+python-dotenv==1.0.1
+shortuuid==1.0.13
+nltk==3.8.1
+regex
+streamlit-extras==0.5.0
+sentence-transformers==2.7.0
+st-theme==1.2.3
+
+# models, databases
+openai==1.55.3
+google-generativeai==0.7.2
+qdrant-client==1.10.1
